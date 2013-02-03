@@ -1,0 +1,23 @@
+{
+    "name": "jsymfony-dependency-injection",
+    "description": "JSymfony dependency injection component",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": ["jsymfony", "dependency injection", "component"],
+    "dependencies": {
+        "jsymfony-config": "*",
+        "js-yaml": "*",
+        "lodash": "*",
+        "debug": "*"
+    },
+    "engines": {
+        "node": ">= 0.8.16"
+    },
+    "bugs": {
+        "url": "https://github.com/jsymfony/dependency-injection/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jsymfony/dependency-injection.git"
+    }
+}
