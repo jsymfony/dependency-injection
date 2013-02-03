@@ -1,0 +1,6 @@
+parameters:
+    test: 123
+
+services:
+    test_service:
+        class: 'JSymfony.FunctionRunner'
